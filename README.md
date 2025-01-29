@@ -1,4 +1,2 @@
-# osu-droid-skins-repo
-Repo with a lot of droid player's skins
-
-test
+<h1 align="center">osu!droid skins</h1>
+## This is a repo containing skins for various players of osu!droid.
