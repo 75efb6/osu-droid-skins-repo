@@ -2,11 +2,11 @@
   <h1 align=center>Asore</h1>
   <h2>Asore (Recreation)</h2>
   <h3>
-    <img src="">
-    <img src="">
-    <img src="">
-    <img src="">
-    <img src="">
+    <img src="https://github.com/75efb6/osu-droid-skins-repo/blob/dev/player-skins/asore/images/skins/asore-recreation/map-selection.png">
+    <img src="https://github.com/75efb6/osu-droid-skins-repo/blob/dev/player-skins/asore/images/skins/asore-recreation/mod-selection.png">
+    <img src="https://github.com/75efb6/osu-droid-skins-repo/blob/dev/player-skins/asore/images/skins/asore-recreation/pause.png">
+    <img src="https://github.com/75efb6/osu-droid-skins-repo/blob/dev/player-skins/asore/images/skins/asore-recreation/you-failed.png">
+    <img src="https://github.com/75efb6/osu-droid-skins-repo/blob/dev/player-skins/asore/images/skins/asore-recreation/results.png">
   </h3>
   <h3><a href=https://files.catbox.moe/6ey0p1.zip>Download (727MB)</h3>
 
