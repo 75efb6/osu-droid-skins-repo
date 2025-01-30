@@ -1,6 +1,6 @@
 <div align=center>
   <h1 align=center>Behwall</h1>
-  <h2>Skin 1</h2>
+  <h2>Behwall</h2>
   <h3>
     <img src="https://github.com/75efb6/osu-droid-skins-repo/blob/dev/player-skins/behwall/images/skins/skin1/map-selection.png">
     <img src="https://github.com/75efb6/osu-droid-skins-repo/blob/dev/player-skins/behwall/images/skins/skin1/mod-selection.png">
