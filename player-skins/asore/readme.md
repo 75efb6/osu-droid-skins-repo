@@ -59,6 +59,6 @@
     <img src="https://github.com/75efb6/osu-droid-skins-repo/blob/dev/player-skins/asore/images/skins/asore-recreation/you-failed.png">
     <img src="https://github.com/75efb6/osu-droid-skins-repo/blob/dev/player-skins/asore/images/skins/asore-recreation/results.png">
   </h3>
-  <h3><a href=https://files.catbox.moe/6ey0p1.zip>Download (727MB)</h3>
+  <h3><a href=https://files.catbox.moe/6ey0p1.zip>Download (19.5MB)</h3>
 
 </div>
