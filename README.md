@@ -4,3 +4,6 @@
 ## Visit the folders:
 - <a href=./player-skins/readme.md>Player Skins</a> (Top Players)
 - <a href=./player-submissions/readme.md>Player Submissions</a> (Random Players)
+
+## Contribute
+<a href=./skin-request-sample.md>Follow these guidelines</a>
