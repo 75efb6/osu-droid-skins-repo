@@ -9,4 +9,4 @@
   <img src="./images/skins/mgShenac10-HDDT_kozekiUi/results.png">
 
 </h3>
-<h3 align=center><a href="https://files.catbox.moe/rsvdcj.zip">Download (14.1MB)</h3>
+<h3 align=center><a href="https://files.catbox.moe/0gbe31.zip">Download (19.4MB)</h3>
