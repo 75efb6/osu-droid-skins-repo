@@ -28,4 +28,4 @@
   <img src="./images/skins/kogecha/you-failed.png">
   <img src="./images/skins/kogecha/results.png">
 </h3>
-<h3 align=center><a href="https://drive.google.com/uc?export=download&id=19KzhmtVPae2_pGtMl1PAAurzKC48QiuW">Download (11.7MB)</h3>
+<h3 align=center><a href="https://drive.google.com/uc?export=download&id=19KzhmtVPae2_pGtMl1PAAurzKC48QiuW">Download (10.34MB)</h3>
