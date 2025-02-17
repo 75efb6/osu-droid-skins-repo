@@ -8,6 +8,6 @@
 
 <div align=center>
   <h2><a href="./arcadia/readme.md">Arcadia</a></h2>
-  <img src="./arcadia/images/avatar/sample" width="300"></img>
+  <img src="./arcadia/images/avatar/142309.png" width="300"></img>
   <p>Skins: (727 haha im funny)</p>
 </div>
