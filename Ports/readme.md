@@ -3,7 +3,7 @@
 <div align=center>
   <h2><a href="./Aristia/readme.md">Aristia</a></h2>
   <img src="./Aristia/gameplay.jpg" width="400"></img>
-  <p>Skins: Aristia Port from [osuck](https://skins.osuck.net/skins/866?v=0)</p>
+  <p>Skins: Aristia Port from <a href="https://skins.osuck.net/skins/866?v=0">osuck</a></p>
 </div>
 
 <div align=center>
