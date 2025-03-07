@@ -1,5 +1,3 @@
-<!-- vim: set syntax=html : -->
-
 <h1 align=center>Player Skins</h1>
 
 <div align=center>

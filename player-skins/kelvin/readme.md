@@ -1,4 +1,3 @@
-<!-- vim: set syntax=html : -->
 <div align=center>
   <h1 align=center>Kelvin</h1>
 
