@@ -23,7 +23,7 @@
   </h3>
   <h3><a href="https://drive.google.com/drive/u/1/folders/1T_1rRDKBg8mxC_6BpMgs0Jql-8rEdDyc">Download</h3>
 
-  <h2><bocchi dt rafis/h2>
+  <h2>bocchi dt rafis</h2>
   <h3>
     <img src="./skins/bocchidt/gameplay.jpg">
     <img src="./skins/bocchidt/pause.jpg">
