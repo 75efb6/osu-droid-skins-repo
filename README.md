@@ -7,7 +7,7 @@
 - <a href=./Ports/readme.md>osu!stable Skin Ports</a> (Skin Ports from Pc)
 
 # Other Stuff
-- <a href=./skin-json-documentation.md</a> (Skin.json Documentation)
+- <a href=./skin-json-documentation.md>Skin.json Documentation</a>
 
 ## Contribute
 <a href=./skin-request-sample.md>Follow these guidelines</a>
