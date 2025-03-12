@@ -6,7 +6,7 @@
 - <a href=./player-submissions/readme.md>Player Submissions</a> (Random Players)
 - <a href=./Ports/readme.md>osu!stable Skin Ports</a> (Skin Ports from Pc)
 
-# Other Stuff
+## Other Stuff
 - <a href=./skin-json-documentation.md>Skin.json Documentation</a>
 
 ## Contribute
