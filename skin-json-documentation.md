@@ -16,6 +16,8 @@ For editing skin.json files i recommend using [Rian8337's](https://github.com/Ri
    - [Color](#color)
    - [Fonts](#fonts)
    - [Layout](#layout)
+   - [HUD](#HUD)
+     - [Types](#Types) 
 3. [Usage](#usage)
 4. [Contributing](#contributing)
 
@@ -285,7 +287,8 @@ Defines color settings for menu items.
   ```
 
 ### Fonts
-Configures font settings for gameplay elements.
+Configures font settings for gameplay elements.<br>
+defines prefixes for fonts to use during gameplay, e.g; `default-1`, `default-2`, `default-3`
 
 - **`comboPrefix`**: `<string>`  
   Prefix for combo font.  
@@ -424,6 +427,49 @@ Controls the layout of interface elements.
   }
   ```
   
+### Hud (WORK IN PROGRESS)
+
+New to update 1.8.3 of osu!droid<br>
+Adds the ability to place any hud elements anywhere on the gamescene.
+
+- **`HUD`**: `<array>`
+  Configures the placement of hud elements.
+  - **`type`**: `<string>`
+  - **`x`**: `<float>`
+  - **`y`**: `<float>`
+  - **`anchor`**: `<string>`
+  - **`origin`**: `<string>`
+  - **`scale`**: `<float>`
+```
+{
+  "HUD": [
+      {
+          "type": "back_button",
+          "x": -42.1875,
+          "y": 126.61276,
+          "anchor": "CenterRight",
+          "origin": "CenterRight",
+          "scale": 1.362336455
+        }
+    ]
+}
+```
+
+#### Types 
+These are the Hud elements available as of osu!droid 1.8.3 test client 3.
+
+- back_button
+- combo_counter
+- pie_song_progress
+- accuracy_counter
+- score_counter
+- great_counter
+- ok_counter
+- leaderboard
+- meh_counter
+- miss_counter
+- health_bar
+
 
 ## Usage
 To use skin.json:
