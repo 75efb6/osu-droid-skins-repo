@@ -4,7 +4,7 @@
 ## Visit the folders:
 - <a href=./player-skins/readme.md>Player Skins</a> (Top Players)
 - <a href=./player-submissions/readme.md>Player Submissions</a> (Random Players)
-- <a href=./Ports/readme.md>osu!stable Skin Ports</a> (Skin Ports from Pc)
+- <a href=./Ports/readme.md>osu!stable Skin Ports</a> (Skin Ports from PC)
 
 ## Other Stuff
 - <a href=./skin-json-documentation.md>Skin.json Documentation</a>
