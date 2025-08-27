@@ -15,5 +15,5 @@
 <div align=center>
   <h2><a href="./fernpoutington/readme.md">FernPoutington</a></h2>
   <img src="./fernpoutington/assets/avatar/profile.png" width="300"></img>
-  <p>Skins: N/A</p>
+  <p>Skins: "Noa Yuuki"</p>
 </div>
