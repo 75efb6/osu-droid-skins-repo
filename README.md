@@ -7,7 +7,7 @@
 - <a href=./Ports/readme.md>osu!stable Skin Ports</a> (Skin Ports from PC)
 
 ## Other Stuff
-- <a href=./skin-json-documentation.md>Skin.json Documentation</a>
+- <a href=https://github.com/75efb6/osu-droid-skins-repo/wiki/Skin.json-Documentation-(Skin-Creation)>Skin.json Documentation</a>
 
 ## Contribute
-<a href=./skin-request-sample.md>Follow these guidelines</a>
+<a href=https://github.com/75efb6/osu-droid-skins-repo/wiki/Skin-Adding-Guidelines-(GH-Issues)>Follow these guidelines</a>
