@@ -1,5 +1,5 @@
 > [!NOTE]
-> THIS REPO HAS BEEN REPLACED WITH A [WEBSITE](https//odrskins.es)
+> THIS REPO HAS BEEN REPLACED WITH A [WEBSITE](https://odrskins.es)
 
 <h1 align="center">osu!droid skins</h1>
 <h5 align="center">This is a repo containing skins for various players of osu!droid.</h5>
